@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div className="flex items-center justify-center w-full h-screen"></div>
+    <div className="flex items-center justify-center w-full h-screen bg-[#1D1C1A]"></div>
   );
 }
